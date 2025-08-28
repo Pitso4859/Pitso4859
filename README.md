@@ -39,10 +39,19 @@
 
 ---
 
-### ⚙️ Tools & Frameworks
+### 🏗️ Frameworks
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=spring,hibernate,bootstrap,git,github,idea,postman&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,bootstrap&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+### ⚙️ Tools
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman&perline=6)](https://skillicons.dev)
 
 </div>
 
