@@ -30,10 +30,19 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🖥️ Languages
 <div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,html,css,js,bootstrap,git,github,idea,postman&perline=6)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,sql,postgresql,mysql&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+### ⚙️ Tools & Frameworks
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=spring,hibernate,bootstrap,git,github,idea,postman&perline=6)](https://skillicons.dev)
 
 </div>
 
