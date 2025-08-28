@@ -1,40 +1,63 @@
-<h1 align="center">Hi 👋, I'm Pitso Nkotolane</h1>
-
-- 🔭 I’m currently working on **Java & Spring Boot Projects**
-- 🌱 I’m currently learning **Cloud Computing & Network Security**
-- 💬 Ask me anything about **Java, MySQL, and System Design**
-- 📫 How to reach me: pitso.nkotolane@gmail.com
-- 😄 Portfolio/Website: [Coming Soon 🚀]
-- ⚡ Fun fact: I love solving real-world problems with code!
+<h1 align="center">Hey 👋, I'm Pitso Nkotolane</h1>
+<h3 align="center">A passionate Software Developer from South Africa</h3>
 
 ---
 
-### Connect with me:
-<div id="badges">
+### 👨‍💻 About Me
+- 🔭 Currently working on **Java & Spring Boot projects**
+- 🌱 Expanding my skills in **Cloud Computing & Network Security**
+- 💬 Ask me about **Java, MySQL, System Design, or Networking**
+- 📫 Reach me at **pitso.nkotolane@gmail.com**
+- ⚡ Fun fact: *I enjoy blending tech with creativity to solve real-world problems.*
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
   <a href="https://github.com/pitsonkotolane">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pitso-nkotolane">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,html,css,js,bootstrap,git,github,idea,postman&perline=6)](https://skillicons.dev)
+### 🛠️ Languages & Tools
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,html,css,js,bootstrap,git,github,idea,postman&perline=6)](https://skillicons.dev)
+
+</div>
 
 ---
 
-![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitsonkotolane&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+<div align="center">
+  
+![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitsonkotolane&show_icons=true&theme=dark&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsonkotolane&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsonkotolane&layout=compact&theme=dark)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+- 💼 **[Private School Management System](https://github.com/pitsonkotolane/private-school-management)** — A full-stack Spring Boot + MySQL project  
+- 🎮 **[Gaming Competition Registration System](https://github.com/pitsonkotolane/gaming-competition-system)** — Java GUI + Database integration  
+- 📦 **[Product Sales System](https://github.com/pitsonkotolane/product-sales-system)** — OOP-based Java project with MySQL  
+
+---
 
 <br>
-⭐️ From [pitsonkotolane](https://github.com/pitsonkotolane)
+<div align="center">
+  ⭐️ From <a href="https://github.com/pitsonkotolane">pitsonkotolane</a>
+</div>
