@@ -62,7 +62,7 @@
   
 ![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=dark&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4851&layout=compact&theme=dark)
 
 </div>
 
