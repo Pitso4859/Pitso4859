@@ -7,7 +7,7 @@
 - 🔭 Currently working on **Java & Spring Boot projects**
 - 🌱 Expanding my skills in **Cloud Computing & Network Security**
 - 💬 Ask me about **Java, MySQL, System Design, or Networking**
-- 📫 Reach me at **pitso.nkotolane@gmail.com**
+- 📫 Reach me at **pnkotolane@gmail.com**
 - ⚡ Fun fact: *I enjoy blending tech with creativity to solve real-world problems.*
 
 ---
