@@ -15,10 +15,11 @@
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://github.com/pitsonkotolane">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>https://github.com/Pitso4859
   </a>
   <a href="https://www.linkedin.com/in/pitso-nkotolane">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
