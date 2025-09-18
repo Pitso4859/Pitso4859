@@ -1,72 +1,104 @@
-<h1 align="center">Hey 👋, I'm Pitso Nkotolane</h1>
-<h3 align="center">A passionate Software Developer from South Africa</h3>
+# Hi 👋, I'm Pitso Nkotolane
+
+## 🚀 Passionate Java Developer & Software Engineer
+I build **robust Java & Spring Boot applications**, develop **interactive GUIs** with JavaFX, and manage **databases with MySQL**.  
+I’m exploring **cloud computing, AI, and network security** to solve real-world problems.  
+Outside tech, I enjoy combining **creativity with programming** to design practical solutions.
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Java & Spring Boot projects**  
-- 🌱 Expanding my skills in **Cloud Computing & Network Security**  
-- 💬 Ask me about **Java, MySQL, System Design, or Networking**  
-- 📫 Reach me at **pnkotolane@gmail.com**  
-- ⚡ Fun fact: *I enjoy blending tech with creativity to solve real-world problems.*
+### 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pitso%20Nkotolane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/)
+[![GitHub](https://img.shields.io/badge/GitHub-PitsoNkotolane-black?style=flat&logo=github)](https://github.com/pitsonkotolane)
+[![Email](https://img.shields.io/badge/Email-pnkotolane%40gmail.com-red?style=flat&logo=gmail)](mailto:pnkotolane@gmail.com)
 
 ---
 
-### 🌐 Connect with Me
-<div align="center">
-  <a href="https://github.com/Pitso4859">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+## 🔥 Featured Projects
+
+### 💼 Private School Management System
+[![GitHub stars](https://img.shields.io/github/stars/pitsonkotolane/private-school-management?style=social)](https://github.com/pitsonkotolane/private-school-management)
+[![GitHub forks](https://img.shields.io/github/forks/pitsonkotolane/private-school-management?style=social)](https://github.com/pitsonkotolane/private-school-management)
+
+Full-stack Spring Boot + MySQL project to manage students, grades, and school operations.  
+🔗 [View Repo](https://github.com/pitsonkotolane/private-school-management)
+
+---
+
+### 🎮 Gaming Competition Registration System
+[![GitHub stars](https://img.shields.io/github/stars/pitsonkotolane/gaming-competition-system?style=social)](https://github.com/pitsonkotolane/gaming-competition-system)
+[![GitHub forks](https://img.shields.io/github/forks/pitsonkotolane/gaming-competition-system?style=social)](https://github.com/pitsonkotolane/gaming-competition-system)
+
+Java GUI application for registering and managing gaming competitions with database support.  
+🔗 [View Repo](https://github.com/pitsonkotolane/gaming-competition-system)
+
+---
+
+### 📦 Product Sales System
+[![GitHub stars](https://img.shields.io/github/stars/pitsonkotolane/product-sales-system?style=social)](https://github.com/pitsonkotolane/product-sales-system)
+[![GitHub forks](https://img.shields.io/github/forks/pitsonkotolane/product-sales-system?style=social)](https://github.com/pitsonkotolane/product-sales-system)
+
+OOP-based Java project managing product sales, inventory, and customer transactions with MySQL.  
+🔗 [View Repo](https://github.com/pitsonkotolane/product-sales-system)
+
+---
+
+### 🌐 Portfolio Website
+[![GitHub stars](https://img.shields.io/github/stars/pitsonkotolane/portfolio?style=social)](https://github.com/pitsonkotolane/portfolio)
+[![GitHub forks](https://img.shields.io/github/forks/pitsonkotolane/portfolio?style=social)](https://github.com/pitsonkotolane/portfolio)
+
+Personal portfolio site built with Spring Boot and Thymeleaf showcasing projects, skills, and experience.  
+🔗 [View Repo](https://github.com/pitsonkotolane/portfolio)
+
+---
+
+<details>
+<summary>🧰 Skills</summary>
+
+**Languages:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="SQL" />
 </div>
 
----
-
-### 🖥️ Languages
-<div align="center">
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js,sql,postgresql,mysql&perline=6)](https://skillicons.dev)
+**Frontend:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="30" alt="Thymeleaf" />
 </div>
 
----
-
-### 🏗️ Frameworks
-<div align="center">
-[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,bootstrap&perline=6)](https://skillicons.dev)
+**Backend & Frameworks:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="Hibernate" />
 </div>
 
----
-
-### ⚙️ Tools
-<div align="center">
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,postman&perline=6)](https://skillicons.dev)
+**Databases:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  ![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=dark&count_private=true)  
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=dark)
+**Tools & IDEs:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ IDEA" />
 </div>
 
----
-
-### 🚀 Featured Projects
-- 💼 **[Private School Management System](https://github.com/pitsonkotolane/private-school-management)** — Full-stack Spring Boot + MySQL project  
-- 🎮 **[My Portfolio ](https://github.com/pitsonkotolane/gaming-competition-system)** — Spring Boot + MySQL 
-- 📦 **[Product Sales System](https://github.com/pitsonkotolane/product-sales-system)** — OOP-based Java project with MySQL  
+</details>
 
 ---
 
-<div align="center">
-  ⭐️ From <a href="https://github.com/pitsonkotolane">pitsonkotolane</a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pitsonkotolane&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsonkotolane&layout=compact&theme=radical)
