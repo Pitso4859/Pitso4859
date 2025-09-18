@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pitso Nkotolane
 
-## 🚀 Passionate Java Developer & Software Engineer
+## 🚀 Passionate Java Developer 
 I build **robust Java & Spring Boot applications**, develop **interactive GUIs** with JavaFX, and manage **databases with MySQL**.  
 I’m exploring **cloud computing, AI, and network security** to solve real-world problems.  
 Outside tech, I enjoy combining **creativity with programming** to design practical solutions.
