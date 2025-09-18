@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pitso Nkotolane
 
-## 🚀 Passionate Java Developer 
+## 🚀 Passionate Java Developer & Final year Student at Vaal University of Technology
 I build **robust Java & Spring Boot applications**, develop **interactive GUIs** with JavaFX, and manage **databases with MySQL**.  
 I’m exploring **cloud computing, AI, and network security** to solve real-world problems.  
 Outside tech, I enjoy combining **creativity with programming** to design practical solutions.
@@ -100,5 +100,5 @@ Personal portfolio site built with Spring Boot and Thymeleaf showcasing projects
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pitsonkotolane&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsonkotolane&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=radical)
