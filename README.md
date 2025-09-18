@@ -4,28 +4,27 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Java & Spring Boot projects**
-- 🌱 Expanding my skills in **Cloud Computing & Network Security**
-- 💬 Ask me about **Java, MySQL, System Design, or Networking**
-- 📫 Reach me at **pnkotolane@gmail.com**
+- 🔭 Currently working on **Java & Spring Boot projects**  
+- 🌱 Expanding my skills in **Cloud Computing & Network Security**  
+- 💬 Ask me about **Java, MySQL, System Design, or Networking**  
+- 📫 Reach me at **pnkotolane@gmail.com**  
 - ⚡ Fun fact: *I enjoy blending tech with creativity to solve real-world problems.*
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://github.com/pitsonkotolane">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>https://github.com/Pitso4859
+  <a href="https://github.com/Pitso4859">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/pitso-nkotolane">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  <a href="https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
@@ -33,50 +32,41 @@
 
 ### 🖥️ Languages
 <div align="center">
-
 [![Languages](https://skillicons.dev/icons?i=java,html,css,js,sql,postgresql,mysql&perline=6)](https://skillicons.dev)
-
 </div>
 
 ---
 
 ### 🏗️ Frameworks
 <div align="center">
-
 [![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,bootstrap&perline=6)](https://skillicons.dev)
-
 </div>
 
 ---
 
 ### ⚙️ Tools
 <div align="center">
-
 [![Tools](https://skillicons.dev/icons?i=git,github,idea,postman&perline=6)](https://skillicons.dev)
-
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=dark&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=dark)
-
+  ![Pitso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=dark&count_private=true)  
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=dark)
 </div>
 
 ---
 
 ### 🚀 Featured Projects
-- 💼 **[Private School Management System](https://github.com/pitsonkotolane/private-school-management)** — A full-stack Spring Boot + MySQL project  
-- 🎮 **[Gaming Competition Registration System](https://github.com/pitsonkotolane/gaming-competition-system)** — Java GUI + Database integration  
+- 💼 **[Private School Management System](https://github.com/pitsonkotolane/private-school-management)** — Full-stack Spring Boot + MySQL project  
+- 🎮 **[My Portfolio ](https://github.com/pitsonkotolane/gaming-competition-system)** — Spring Boot + MySQL 
 - 📦 **[Product Sales System](https://github.com/pitsonkotolane/product-sales-system)** — OOP-based Java project with MySQL  
 
 ---
 
-<br>
 <div align="center">
   ⭐️ From <a href="https://github.com/pitsonkotolane">pitsonkotolane</a>
 </div>
