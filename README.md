@@ -15,7 +15,7 @@ I seek opportunities to **learn, grow, and contribute** my skills to dynamic, fo
 
 * 🌍  I'm based in South Africa, Johannesburg
 * ✉️  You can contact me at [pnkotolane@gmail.com](mailto:pnkotolane@gmail.com)
-* 🧠  I'm learning **Software Engineering & Advanced Java**
+* 🧠  I'm learning **Spring-Boot & Advanced Java**
 * 🤝  I'm open to collaborating on **Software Development, Open Source, Cloud, and Networking Projects**
 
 <a href="https://www.github.com/pitsonkotolane" target="_blank" rel="noreferrer"><img
