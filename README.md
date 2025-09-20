@@ -3,7 +3,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Pitso Nkotolane**
 
-## Java Developer | Spring Boot Enthusiast | Front-end Developer | Database Manager | Cloud & AI Explorer | 
+## Java Developer | Spring Boot Enthusiast | Front-end Developer | Database Manager | Cloud(Azure and AWS) & AI Explorer | 
 
 I'm a final-year IT student at Vaal University of Technology with a passion for building **robust Java applications**, designing **interactive GUIs**, and managing **databases with MySQL**. I love exploring **cloud computing, AI, and network security** to create innovative solutions. <br />
 
