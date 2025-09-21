@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/pitsonkotolane?logo=github&style=fo
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" /> </div>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" /></a>
@@ -58,11 +58,11 @@ src="https://img.shields.io/github/followers/pitsonkotolane?logo=github&style=fo
 
 <a href="https://github.com/Pitso4859"><img src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="Pitso Nkotolane's GitHub stats" /></a>
 
-<a href="https://github.com/pitsonkotolane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pitsonkotolane&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pitso4859&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/pitsonkotolane"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pitso4859&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Pitso4859"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pitso4859&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/pitsonkotolane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Pitso4859" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 ---
 
@@ -70,12 +70,12 @@ src="https://img.shields.io/github/followers/pitsonkotolane?logo=github&style=fo
 
 <div width="100%" align="center">
 <a href="https://github.com/Pitso4859/private-school-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=private-school-management&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/pitsonkotolane/gaming-competition-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=gaming-competition-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Pitso4859/gaming-competition-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=gaming-competition-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 
 <div width="100%" align="center">
-<a href="https://github.com/pitsonkotolane/product-sales-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=product-sales-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/pitsonkotolane/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Pitso4859/product-sales-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=product-sales-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Pitso4859/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 
 ---
