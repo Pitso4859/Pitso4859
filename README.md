@@ -18,8 +18,8 @@ I seek opportunities to **learn, grow, and contribute** my skills to dynamic, fo
 * 🧠  I'm learning **Spring-Boot & Advanced Java**
 * 🤝  I'm open to collaborating on **Software Development, Open Source, Cloud, and Networking Projects**
 
-<a href="https://www.github.com/pitsonkotolane" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pitsonkotolane?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+<a href="https://www.github.com/Pitso4859" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Pitso4859?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
 ---
 
