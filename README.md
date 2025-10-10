@@ -44,7 +44,9 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 <p align="left">
 <a href="https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 <a href="https://www.github.com/pitsonkotolane" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
-<a href="mailto:pnkotolane@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="32" height="32" alt="Gmail"/></a>
+<a href="mailto:pnkotolane@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" height="32" alt="Gmail"/>
+</a>
 </p>
 
 ---
