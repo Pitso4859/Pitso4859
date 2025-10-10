@@ -42,8 +42,8 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="https://www.github.com/pitsonkotolane" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/pitso-nkotolane/overlay/about-this-profile/?trk=public-profile-join-page&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrWdDjqV3RYSVpPVi18922A%3D%3D" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://www.github.com/Pitso4859" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
 <a href="mailto:pnkotolane@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" height="32" alt="Gmail"/>
 </a>
