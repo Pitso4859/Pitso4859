@@ -74,6 +74,10 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pitso4859&label=Profile%20views&color=0e75b6&style=flat" alt="pitso4859" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pitso4859" alt="pitso4859" /></a> </p>
 ---
 
 ## 📌 Featured Repositories
