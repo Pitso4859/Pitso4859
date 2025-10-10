@@ -75,13 +75,13 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 ## 📌 Featured Repositories
 
 <div width="100%" align="center">
-<a href="https://github.com/Pitso4859/private-school-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=private-school-management&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
-<a href="https://github.com/Pitso4859/gaming-competition-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=gaming-competition-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859/private-school-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=private-school-management&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859/gaming-competition-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=gaming-competition-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
 </div>
 
 <div width="100%" align="center">
-<a href="https://github.com/Pitso4859/product-sales-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=product-sales-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
-<a href="https://github.com/Pitso4859/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/BA-3-2-Mavuti/Credit-Card-Fraud-Detection.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=product-sales-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
 </div>
 
 ---
