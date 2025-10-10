@@ -6,6 +6,8 @@
 ## 💼 About Me
 I am a **final-year IT student** at Vaal University of Technology with a passion for **Java development, Spring Boot, front-end development, databases, cloud, AI, and networking**.  
 
+I enjoy building **robust applications**, designing **interactive GUIs**, and managing **databases with MySQL and PostgreSQL**. I thrive in collaborative environments and love solving problems creatively.  
+
 - 🌍 Based in Johannesburg, South Africa  
 - ✉️ Contact: [pnkotolane@gmail.com](mailto:pnkotolane@gmail.com)  
 - 🧠 Currently learning **Spring Boot & Advanced Java**  
@@ -29,9 +31,9 @@ I am a **final-year IT student** at Vaal University of Technology with a passion
 <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="36" height="36" alt="Networking" />
 </p>
 
@@ -41,7 +43,7 @@ I am a **final-year IT student** at Vaal University of Technology with a passion
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pitso-gintos-nkotolane-977297231/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
-<a href="https://github.com/pitsonkotolane" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
+<a href="https://www.github.com/pitsonkotolane" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
 <a href="mailto:pnkotolane@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="32" height="32" alt="Gmail"/></a>
 </p>
 
@@ -64,3 +66,32 @@ I am a **final-year IT student** at Vaal University of Technology with a passion
 <a href="https://github.com/Pitso4859">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
+---
+
+## 📌 Featured Repositories
+
+<div width="100%" align="center">
+<a href="https://github.com/Pitso4859/private-school-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=private-school-management&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859/gaming-competition-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=gaming-competition-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+</div>
+
+<div width="100%" align="center">
+<a href="https://github.com/Pitso4859/product-sales-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=product-sales-system&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/Pitso4859/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pitsonkotolane&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" /></a>
+</div>
+
+---
+
+## ☕ Support Me
+
+<p>
+<a href="https://www.buymeacoffee.com/pitsonkotolane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.ko-fi.com/pitsonkotolane"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" /></a>
+</p>
+
+---
+
+## 🌟 Why Hire Me?
+
+I am **versatile, adaptable, and eager to learn**. My combination of **backend, frontend, database, networking, and cloud skills** makes me a valuable team member for any software or IT project. I thrive in **collaborative environments** and aim to contribute **high-quality solutions** efficiently.
