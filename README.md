@@ -23,34 +23,30 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 
 <p align="left">
 <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="Hibernate" />
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Boot" /></a>
+<a href="https://hibernate.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="36" alt="Hibernate" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="36" height="36" alt="Networking" />
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-
-
-
 
 ---
 
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pitso-nkotolane/overlay/about-this-profile/?trk=public-profile-join-page&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrWdDjqV3RYSVpPVi18922A%3D%3D" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/pitso-nkotolane/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 <a href="https://www.github.com/Pitso4859" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
-<a href="mailto:pnkotolane@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" height="32" alt="Gmail"/>
-</a>
+<a href="mailto:pnkotolane@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" height="32" alt="Gmail"/></a>
 </p>
 
 ---
@@ -66,15 +62,12 @@ I enjoy building **robust applications**, designing **interactive GUIs**, and ma
 </a>
 
 <a href="https://github.com/Pitso4859" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Pitso4859&bg_color=000000&color=3382ed&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Commits Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Pitso4859&bg_color=000000&color=3382ed&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Commits Graph" />
 </a>
-
 
 <a href="https://github.com/Pitso4859">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
-
 
 ---
 
