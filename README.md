@@ -12,8 +12,6 @@ I specialize in designing and developing **database-driven and mobile applicatio
 My technical expertise spans **full-stack development**, with certifications in **Oracle Cloud Infrastructure DevOps**, **Microsoft Azure Fundamentals**, and multiple **Cisco certifications** in **networking, cybersecurity, and web technologies**.  
 I’m passionate about building software that solves real-world problems and delivers exceptional user experiences.
 
-Currently, I'm eager to join **BBD’s Graduate Programme** to contribute to live projects, learn from industry mentors, and grow into a skilled full-stack software professional within a fast-paced, innovative environment.
-
 ---
 
 - 🌍 Based in Johannesburg, South Africa  
@@ -94,8 +92,8 @@ Currently, I'm eager to join **BBD’s Graduate Programme** to contribute to liv
   <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight" />
   </a>
-  a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=radical" />
+  <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight" />
   </a>
 </p>
 
@@ -123,3 +121,5 @@ Currently, I'm eager to join **BBD’s Graduate Programme** to contribute to liv
 
 I am **versatile, adaptable, and eager to learn**. My combination of **backend, frontend, database, networking, and cloud skills** makes me a valuable team member for any software or IT project.  
 I thrive in **collaborative environments** and aim to contribute **high-quality solutions** efficiently.
+
+---
