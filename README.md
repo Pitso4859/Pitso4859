@@ -1,6 +1,15 @@
 # 👋 Hi there! I'm Pitso Nkotolane Gintos
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
 
+<p align="left">
+  <a href="https://www.github.com/Pitso4859" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Pitso4859?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Pitso4859" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Profile_Views-12345-blue?style=for-the-badge&logo=eye" alt="Profile Views" />
+  </a>
+</p>
+
 ---
 
 ## 💼 About Me
@@ -9,12 +18,27 @@ Hello! I'm **Pitso Nkotolane Gintos**, a motivated and analytical **IT graduate*
 
 I specialize in designing and developing **database-driven and mobile applications** using **Java, Spring Boot, MySQL, and React Native**. With a strong foundation in **programming, software development, and networks**, I’ve demonstrated proven ability in **research, data analysis, and teamwork** across multidisciplinary projects.
 
-My technical expertise spans **full-stack development**, with certifications in **Oracle Cloud Infrastructure DevOps**, **Microsoft Azure Fundamentals**, and multiple **Cisco certifications** in **networking, cybersecurity, and web technologies**. I’m passionate about building software that solves real-world problems and delivers exceptional user experiences.
-
 * 🌍 Based in Johannesburg, South Africa
-* 🧠 Currently learning **Spring Boot & Advanced Java**
 * 🤝 Open to collaborating on **Software Development, Open Source, Cloud, and Networking Projects**
 * ✉️ Contact me at **[pnkotolane@gmail.com](mailto:pnkotolane@gmail.com)**
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-blue?style=for-the-badge&logo=microsoftazure" alt="Azure Fundamentals Certified"/>
+  <img src="https://img.shields.io/badge/Oracle-Cloud_DevOps_Professional-F80000?style=for-the-badge&logo=oracle" alt="Oracle DevOps Certified"/>
+  <img src="https://img.shields.io/badge/Cisco-Certified_Support_Technician-00529C?style=for-the-badge&logo=cisco" alt="Cisco Certified"/>
+</p>
+
+---
+
+## 🚀 What I'm Up To
+
+* 🧠 Currently learning **Spring Boot Security & Advanced Java Concurrency**
+* 💻 Working on **a personal expense tracker mobile app** using React Native and Spring Boot.
+* 🌱 My goals for 2025: **Contribute to a major open-source project** and achieve an **AWS Certification**.
 
 ---
 
@@ -52,9 +76,6 @@ My technical expertise spans **full-stack development**, with certifications in 
   <a href="mailto:pnkotolane@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" height="32" alt="Gmail"/>
   </a>
-  <a href="https://www.github.com/Pitso4859" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Pitso4859?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
-  </a>
 </p>
 
 ---
@@ -73,6 +94,8 @@ My technical expertise spans **full-stack development**, with certifications in 
 
 ## 📌 Featured Repositories
 
+*(This assumes you've made `vut-cafeteria-online-shopping-website` public)*
+
 <p align="center">
   <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight" />
@@ -86,6 +109,21 @@ My technical expertise spans **full-stack development**, with certifications in 
   </a>
   <a href="https://github.com/Pitso4859/My-Personal-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📰 My Recent Blog Posts
+
+* *No blog posts yet. Stay tuned!*
+---
+
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://github-readme-spotify.vercel.app/api/playing?user_id=YOUR_SPOTIFY_USER_ID&theme=tokyonight&" alt="Spotify Now Playing" />
   </a>
 </p>
 
