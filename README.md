@@ -83,22 +83,24 @@ I thrive in collaborative environments and love solving problems creatively.
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Pitso4859/private-school-management">
+  <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=private-school-management&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Pitso4859/gaming-competition-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=gaming-competition-system&theme=tokyonight" />
+ <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pitso4859/Credit-Card-Fraud-Detection">
+  <a href="https://github.com/BA-3-2-Mavuti/Credit-Card-Fraud-Detection.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=Credit-Card-Fraud-Detection&theme=tokyonight" />
   </a>
   <a href="https://github.com/Pitso4859/My-Personal-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight" />
   </a>
 </p>
+
+
 
 ---
 
