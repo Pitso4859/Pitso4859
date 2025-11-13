@@ -85,7 +85,7 @@ I specialize in developing **database-driven**, **mobile**, and **web-based** ap
 
 <p align="center">
   <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight&cache_seconds=60" />
   </a>
   <a href="https://github.com/Pitso4859/My-Personal-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight" />
