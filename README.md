@@ -94,8 +94,8 @@ Currently, I'm eager to join **BBD’s Graduate Programme** to contribute to liv
   <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight" />
+  a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=radical" />
   </a>
 </p>
 
