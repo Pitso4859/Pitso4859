@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pitso Nkotolane Gintos  
+# 👋 Hi there! I'm Pitso Nkotolane Gintos
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
 
 <p align="center">
@@ -18,20 +18,19 @@
 
 ---
 
-## 💼 About Me  
+## 💼 About Me
 
-Hello! I'm **Pitso Nkotolane Gintos**, a passionate and analytical **IT graduate** with a **Diploma in Information Technology**. I’m dedicated to turning complex problems into simple, user-friendly digital solutions.  
+Hello! I'm **Pitso Nkotolane Gintos**, a passionate and analytical **IT graduate** with a **Diploma in Information Technology**. I’m dedicated to turning complex problems into simple, user-friendly digital solutions.
 
-I specialize in developing **database-driven**, **mobile**, and **web-based** applications using modern technologies like **Java**, **Spring Boot**, **React Native**, and **MySQL**.  
+I specialize in developing **database-driven**, **mobile**, and **web-based** applications using modern technologies like **Java**, **Spring Boot**, **React Native**, and **MySQL**.
 
-* 🌍 Based in Johannesburg, South Africa  
-* 💬 Ask me about **Java, Databases, Cloud, or APIs**  
-* 🤝 Open to collaborating on **Software Development, Cloud, and Networking Projects**  
-* ✉️ Contact me at [pnkotolane@gmail.com](mailto:pnkotolane@gmail.com)  
+* 🌍 Based in Johannesburg, South Africa
+* 💬 Ask me about **Java, Spring Boot, Databases, Cloud, or APIs**
+* 🤝 Open to collaborating on **Software Development, Cloud, and Networking Projects**
 
 ---
 
-## 🏅 Certifications  
+## 🏅 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_AZ--900-blue?style=for-the-badge&logo=microsoftazure" alt="Azure Fundamentals Certified"/>
@@ -41,15 +40,15 @@ I specialize in developing **database-driven**, **mobile**, and **web-based** ap
 
 ---
 
-## 🚀 What I'm Up To  
+## 🚀 What I'm Up To
 
-* 🧠 Learning **Spring Boot Security & Advanced Java Concurrency**  
-* 💻 Building a **Personal Expense Tracker App** (React Native + Spring Boot)  
-* 🌱 2025 Goal: **Contribute to a major open-source project** and **earn an AWS Certification**  
+* 🧠 Learning **Spring Boot Security & Advanced Java Concurrency**
+* 💻 Building a **Personal Expense Tracker App** (React Native + Spring Boot)
+* 🌱 2025 Goal: **Contribute to a major open-source project** and **earn an AWS Certification**
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
@@ -70,38 +69,38 @@ I specialize in developing **database-driven**, **mobile**, and **web-based** ap
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Pitso4859&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Pitso4859&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Repositories  
+## 📌 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight&cache_seconds=60" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Pitso4859/My-Personal-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight&cache_seconds=1800" />
   </a>
   <br/>
   <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight&cache_seconds=1800" />
   </a>
   <a href="https://github.com/BA-3-2-Mavuti/Credit-Card-Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BA-3-2-Mavuti&repo=Credit-Card-Fraud-Detection&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BA-3-2-Mavuti&repo=Credit-Card-Fraud-Detection&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
 
 ---
 
-## ☕ Support Me  
+## ☕ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/pitsonkotolane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" /></a>
@@ -110,11 +109,11 @@ I specialize in developing **database-driven**, **mobile**, and **web-based** ap
 
 ---
 
-## 🌟 Why Hire Me?  
+## 🌟 Why Hire Me?
 
-✅ **Versatile:** Skilled across backend, frontend, and cloud.  
-✅ **Collaborative:** Works effectively in teams and independent projects.  
-✅ **Driven:** Always learning, improving, and building impactful software.  
-✅ **Goal-Oriented:** Focused on writing clean, efficient, and scalable code.  
+✅ **Full-Stack Versatility:** Skilled across backend (Java, Spring), frontend (React), and cloud (Azure, Oracle).
+✅ **Collaborative Teammate:** Proven ability to work effectively in teams and deliver on solo projects.
+✅ **Eager & Driven:** A quick learner who is constantly building, improving, and mastering new technologies.
+✅ **Quality-Focused:** Dedicated to writing clean, efficient, and scalable code that solves real-world problems.
 
 > 💡 *"Turning ideas into digital reality, one commit at a time."*
