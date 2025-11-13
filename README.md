@@ -1,13 +1,20 @@
-# 👋 Hi there! I'm **Pitso Nkotolane**
+# 👋 Hi there! I'm **Pitso Nkotolane Gintos**
 ![Waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
 
 ## 💼 About Me
-I am a **final-year IT student** at Vaal University of Technology with a passion for **Java development, Spring Boot, front-end development, databases, cloud, AI, and networking**.
 
-I enjoy building **robust applications**, designing **interactive GUIs**, and managing **databases with MySQL and PostgreSQL**.  
-I thrive in collaborative environments and love solving problems creatively.
+Hello! I'm **Pitso Nkotolane Gintos**, a motivated and analytical **IT graduate** with a completed **Diploma in Information Technology**, passionate about transforming technical knowledge into real-world software solutions.
+
+I specialize in designing and developing **database-driven and mobile applications** using **Java, Spring Boot, MySQL, and React Native**. With a strong foundation in **programming, software development, and networks**, I’ve demonstrated proven ability in **research, data analysis, and teamwork** across multidisciplinary projects.
+
+My technical expertise spans **full-stack development**, with certifications in **Oracle Cloud Infrastructure DevOps**, **Microsoft Azure Fundamentals**, and multiple **Cisco certifications** in **networking, cybersecurity, and web technologies**.  
+I’m passionate about building software that solves real-world problems and delivers exceptional user experiences.
+
+Currently, I'm eager to join **BBD’s Graduate Programme** to contribute to live projects, learn from industry mentors, and grow into a skilled full-stack software professional within a fast-paced, innovative environment.
+
+---
 
 - 🌍 Based in Johannesburg, South Africa  
 - ✉️ Contact: [pnkotolane@gmail.com](mailto:pnkotolane@gmail.com)  
@@ -37,6 +44,7 @@ I thrive in collaborative environments and love solving problems creatively.
 <a href="https://developer.mozilla.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="36" height="36" alt="Networking" />
 </p>
+
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -83,24 +91,22 @@ I thrive in collaborative environments and love solving problems creatively.
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=private-school-management&theme=tokyonight" />
+  <a href="https://github.com/Pitso4859/CelseAcademyManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=CelseAcademyManagementSystem&theme=tokyonight" />
   </a>
- <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website.git">
+  <a href="https://github.com/Pitso4859/vut-cafeteria-online-shopping-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=vut-cafeteria-online-shopping-website&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BA-3-2-Mavuti/Credit-Card-Fraud-Detection.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=Credit-Card-Fraud-Detection&theme=tokyonight" />
+  <a href="https://github.com/BA-3-2-Mavuti/Credit-Card-Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BA-3-2-Mavuti&repo=Credit-Card-Fraud-Detection&theme=tokyonight" />
   </a>
   <a href="https://github.com/Pitso4859/My-Personal-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pitso4859&repo=My-Personal-Portfolio&theme=tokyonight" />
   </a>
 </p>
-
-
 
 ---
 
