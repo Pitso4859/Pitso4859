@@ -1,76 +1,46 @@
 # 👋 Hi, I'm Pitso Nkotolane Gintos  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+AI+Integration;Java+%26+Spring+Boot+Specialist;Cloud+%7C+REST+APIs+%7C+System+Design;Building+Scalable+Production+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+AI+Integration;Java+%26+Spring+Boot+Specialist;Cloud+%7C+REST+APIs+%7C+System+Design;Building+Scalable+Production+Systems" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Pitso4859">
     <img src="https://img.shields.io/github/followers/Pitso4859?label=Followers&logo=github&style=for-the-badge&color=0A66C2&labelColor=000000"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Pitso4859">
-    <img src="https://komarev.com/ghpvc/?username=Pitso4859&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-  </a>
-  <a href="mailto:pnkotolane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pitso-nkotolane/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pitso4859&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-I am a **Software Developer Intern at O2M8-2-AI (PTY) LTD**, contributing to production-grade AI-powered systems.
+Backend-focused Software Developer with hands-on production experience building AI-powered and cloud-ready systems.
 
-I specialize in:
+🔹 Secure REST API Development (Spring Boot & Node.js)  
+🔹 AI Integration & Business Automation  
+🔹 Database Optimization & Performance Tuning  
+🔹 Cloud-Oriented Backend Architecture  
+🔹 Complex System Debugging & Refactoring  
 
-- 🔐 Secure REST API Development (Spring Boot & Node.js)  
-- 🤖 AI Feature Integration & Automation  
-- 🗄️ Database Optimization & Performance Tuning  
-- ☁️ Cloud-Ready Backend Architecture  
-- 🧩 Debugging & Improving Complex Systems  
-
-📍 Johannesburg, South Africa  
-🎯 Focused on building scalable, maintainable, business-driven solutions  
+📍 South Africa  
+🎯 Focused on scalable, maintainable, high-performance backend systems  
 
 ---
 
-# 🛠️ Tech Stack  
+# 🛠 Tech Stack  
 
-## 💻 Programming Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages
+Java • JavaScript • TypeScript • Python • SQL  
 
----
+### 🧱 Backend
+Spring Boot • Node.js • Hibernate • REST APIs  
 
-## 🧱 Backend Engineering  
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+### 🗄 Databases
+PostgreSQL • MySQL • Supabase • Firebase  
 
----
-
-## 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## ☁️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ☁️ DevOps & Tools
+Docker • AWS • Azure • Git • Postman  
 
 ---
 
@@ -78,31 +48,31 @@ I specialize in:
 
 ### Software Developer Intern – O2M8-2-AI (PTY) LTD  
 
-✔️ Improved backend performance by **40%**  
-✔️ Automated **90% of manual financial processes**  
-✔️ Built AI-powered invoice processing & audit systems  
-✔️ Implemented real-time validation & multi-currency support  
-✔️ Collaborated via GitHub PR workflows  
+✔ Improved backend performance by **40%**  
+✔ Automated **90% of financial workflows**  
+✔ Built AI-powered invoice & audit systems  
+✔ Implemented multi-currency & real-time validation  
+✔ Collaborated using structured GitHub PR workflows  
 
 ---
 
 # 📌 Featured Projects  
 
-## 🔍 Credit Card Fraud Detection  
-**Python | Scikit-learn | Pandas**  
-Achieved 94% fraud detection accuracy with optimized data pipelines.
+### 🔍 Credit Card Fraud Detection  
+Python • Scikit-learn • Pandas  
+→ Achieved 94% fraud detection accuracy  
 
-## 💰 FinTrack Pro – AI Accounting System  
-**React 19 | Node.js | Supabase | Google Gemini**  
-Automated SME financial workflows using AI integration.
+### 💰 FinTrack Pro – AI Accounting System  
+React • Node.js • Supabase • Gemini AI  
+→ Automated SME accounting workflows  
 
-## 📝 Examination Management System  
-**Spring Boot | MySQL**  
-Secure role-based academic management system.
+### 📝 Examination Management System  
+Spring Boot • MySQL  
+→ Secure role-based academic platform  
 
 ---
 
-# 📊 Engineering Metrics
+# 📊 Engineering Metrics  
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -111,7 +81,7 @@ Secure role-based academic management system.
 
 ---
 
-## 🥧 Code Distribution Across Projects
+## 🥧 Code Distribution (Across Repositories)
 
 <p align="center">
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
@@ -119,47 +89,29 @@ Secure role-based academic management system.
 
 ---
 
-## 📈 Language Breakdown (Repository-Level Detail)
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Pitso4859/Pitso4859/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Pitso4859/Pitso4859/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 # 🎯 2026 Goals  
 
-- 🏗️ Architect enterprise-level backend systems  
-- ☁️ Earn AWS Solutions Architect Certification  
-- 🚀 Launch a production SaaS platform  
-- 🌍 Contribute to major open-source projects  
+- Architect enterprise-level distributed systems  
+- Earn AWS Solutions Architect Certification  
+- Launch a production SaaS platform  
+- Contribute to major open-source backend projects  
 
 ---
 
 # 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pitso%20Nkotolane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pitso-nkotolane/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://nkotolanepitso.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pnkotolane@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pitso-nkotolane/)  
+Portfolio: https://nkotolanepitso.vercel.app/  
+Email: pnkotolane@gmail.com  
 
 ---
 
-# 🌟 Why Work With Me?
-
-✅ Production-level AI & backend experience  
-✅ Strong system architecture understanding  
-✅ Performance-focused engineering mindset  
-✅ Clean, scalable, maintainable code  
-✅ Business-problem-solving approach  
-
----
-
-> 💡 *“Engineering scalable systems that power intelligent business solutions.”*
+> 💡 Engineering scalable systems that power intelligent business solutions.
