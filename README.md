@@ -130,7 +130,7 @@ Secure role-based academic management system.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pitso4859/Pitso4859/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Pitso4859/Pitso4859/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
