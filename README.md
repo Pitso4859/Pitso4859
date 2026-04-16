@@ -129,9 +129,7 @@ Secure role-based academic management system.
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github.com/Pitso4859/Pitso4859/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabeloMashapa&theme=tokyo-night)
 
 ---
 
