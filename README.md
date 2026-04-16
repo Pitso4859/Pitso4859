@@ -129,7 +129,7 @@ Secure role-based academic management system.
 
 ## 🐍 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabeloMashapa&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pitso4859&theme=tokyo-night)
 
 ---
 
