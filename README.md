@@ -1,154 +1,199 @@
-# 👋 Hi, I'm Pitso Nkotolane  
+# 👋 Hi, I'm Pitso Nkotolane Gintos  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Java+%2C+Python+%26+AI;Building+Scalable+Production+Systems;Cloud+%7C+APIs+%7C+Automation;Turning+Ideas+Into+Real+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+%2C+Python+%26+AI;Spring+Boot+%7C+FastAPI+%7C+Cloud+Architecture;Building+Scalable+Production+Systems;AI+Integration+%7C+Automation+%7C+System+Design" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Pitso4859">
-    <img src="https://img.shields.io/github/followers/Pitso4859?style=for-the-badge&color=0A66C2"/>
+    <img src="https://img.shields.io/github/followers/Pitso4859?label=Followers&logo=github&style=for-the-badge&color=0A66C2&labelColor=000000"/>
   </a>
-  <a href="https://www.linkedin.com/in/pitso-nkotolane/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://komarev.com/ghpvc/?username=Pitso4859">
+    <img src="https://komarev.com/ghpvc/?username=Pitso4859&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
   </a>
   <a href="mailto:pnkotolane@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pitso-nkotolane/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-# 🧠 Who I Am  
+## 🚀 About Me  
 
-💻 Backend Engineer focused on **Java, Python, and AI-powered systems**  
-🚀 Building production-ready applications that solve real business problems  
+I am a **Software Developer Intern at O2M8-2-AI (PTY) LTD**, contributing to **production-grade AI-powered systems**.
+
+I specialize in:
+
+- 🔐 Secure REST API Development (Spring Boot, Node.js & FastAPI)  
+- 🤖 AI Feature Integration & Intelligent Automation  
+- 🐍 Python-based Data Processing & Machine Learning Systems  
+- 🗄️ Database Optimization & Performance Tuning  
+- ☁️ Cloud-Ready Backend Architecture  
+- 🧩 Debugging & Improving Complex Systems  
+
 📍 Johannesburg, South Africa  
-
-I don’t just write code — I design systems that are:
-- Scalable  
-- Maintainable  
-- Performance-driven  
-
----
-
-# ⚡ What I Bring  
-
-✔️ Design and build **secure REST APIs**  
-✔️ Develop **AI-integrated backend systems**  
-✔️ Automate complex workflows using Python  
-✔️ Optimize databases for performance at scale  
-✔️ Debug and improve real production systems  
-
----
-
-# 🏢 Experience  
-
-### Software Developer Intern – O2M8-2-AI (PTY) LTD  
-
-- 🚀 Improved backend performance by **40%**  
-- 🤖 Automated **90% of financial workflows** using AI  
-- 🧾 Built intelligent invoice processing & audit systems  
-- ⚡ Implemented real-time validation & multi-currency support  
-- 🐍 Developed Python-based automation scripts for data processing  
-- 🔄 Collaborated using GitHub PR workflows in production environments  
-
----
-
-# 🔥 Featured Projects  
-
-## 🔍 AI Fraud Detection System  
-**Python | Scikit-learn | Pandas**
-
-- Built a machine learning model to detect fraudulent transactions  
-- Processed large-scale financial datasets  
-- Engineered features to improve prediction accuracy  
-- Achieved **94% detection accuracy**  
-- Reduced false positives through model tuning  
-
----
-
-## 💰 FinTrack Pro – AI Accounting Platform  
-**React | Node.js | Supabase | AI Integration**
-
-- Developed an AI-powered financial management system  
-- Automated SME accounting workflows  
-- Integrated intelligent insights using AI APIs  
-- Designed scalable backend services  
-
----
-
-## 🧠 AI Invoice Processing API  
-**Python | FastAPI | AI Models**
-
-- Built an API to extract and validate invoice data  
-- Automated document processing using AI  
-- Reduced manual work and improved accuracy  
-
----
-
-## 📝 Examination Management System  
-**Spring Boot | MySQL**
-
-- Developed a secure academic management system  
-- Implemented role-based authentication  
-- Designed scalable backend architecture  
+🎯 Focused on building scalable, maintainable, business-driven solutions  
 
 ---
 
 # 🛠️ Tech Stack  
 
-### 💻 Languages  
-Java • Python • JavaScript • TypeScript • SQL  
-
-### ⚙️ Backend  
-Spring Boot • Node.js • FastAPI • REST APIs  
-
-### 🧠 AI & Data  
-Scikit-learn • Pandas • AI APIs  
-
-### 🗄️ Databases  
-PostgreSQL • MySQL • Supabase • Firebase  
-
-### ☁️ Tools & DevOps  
-Docker • AWS • Azure • Git • Postman  
+## 💻 Programming Languages  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats  
+## 🧱 Backend Engineering  
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
+
+## 🧠 AI & Data Engineering  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Integration-blueviolet?style=for-the-badge)
+
+---
+
+## 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## ☁️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🏢 Production Experience  
+
+### Software Developer Intern – O2M8-2-AI (PTY) LTD  
+
+✔️ Improved backend performance by **40%**  
+✔️ Automated **90% of manual financial processes using AI systems**  
+✔️ Built AI-powered invoice processing & audit systems  
+✔️ Implemented real-time validation & multi-currency support  
+✔️ Developed **Python scripts for data processing and automation workflows**  
+✔️ Collaborated via GitHub PR workflows in production environments  
+
+---
+
+# 📌 Featured Projects  
+
+## 🔍 Credit Card Fraud Detection  
+**Python | Scikit-learn | Pandas**  
+
+- Built a machine learning fraud detection system  
+- Processed and analyzed large-scale financial datasets  
+- Engineered features to improve model accuracy  
+- Achieved **94% fraud detection accuracy**  
+- Reduced false positives through model optimization  
+
+---
+
+## 💰 FinTrack Pro – AI Accounting System  
+**React 19 | Node.js | Supabase | AI Integration**  
+
+- Built an AI-powered accounting platform for SMEs  
+- Automated financial workflows and reporting  
+- Integrated intelligent AI insights for decision-making  
+- Designed scalable backend architecture  
+
+---
+
+## 🧠 AI Invoice Processing API  
+**Python | FastAPI | AI Models**  
+
+- Developed an API to extract and validate invoice data  
+- Automated document processing workflows  
+- Reduced manual effort and improved processing accuracy  
+
+---
+
+## 📝 Examination Management System  
+**Spring Boot | MySQL**  
+
+- Built a secure academic management system  
+- Implemented role-based authentication  
+- Designed scalable backend systems  
+
+---
+
+# 📊 Engineering Metrics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=Pitso4859&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
+## 🥧 Code Distribution Across Projects  
+
+<p align="center">
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 📈 Language Breakdown (Repository-Level Detail)  
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+## 🐍 Contribution Activity  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pitso4859&theme=tokyo-night)
+
+---
+
 # 🎯 2026 Goals  
 
-- 🏗️ Build enterprise-level backend systems  
-- ☁️ Achieve AWS Solutions Architect Certification  
-- 🚀 Launch a SaaS product  
-- 🌍 Contribute to open-source AI projects  
+- 🏗️ Architect enterprise-level backend systems  
+- ☁️ Earn AWS Solutions Architect Certification  
+- 🚀 Launch a production SaaS platform  
+- 🤖 Build advanced AI-driven backend systems  
+- 🌍 Contribute to major open-source projects  
 
 ---
 
 # 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pitso-nkotolane/  
-- 🌐 Portfolio: https://nkotolanepitso.vercel.app/  
-- 📧 Email: pnkotolane@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pitso%20Nkotolane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pitso-nkotolane/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://nkotolanepitso.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pnkotolane@gmail.com)
 
 ---
 
-# 🌟 Why Me?  
+# 🌟 Why Work With Me?  
 
-I combine:
-- Backend engineering  
-- AI integration  
-- Real production experience  
-
-👉 Result: I build systems that actually work in the real world.
+✅ Production-level AI & backend experience  
+✅ Strong system architecture understanding  
+✅ Performance-focused engineering mindset  
+✅ Clean, scalable, maintainable code  
+✅ Business-driven problem solving  
 
 ---
 
-> 💡 *"I don't just build apps — I build systems that scale."*
+> 💡 *“Engineering scalable systems that power intelligent business solutions.”*
