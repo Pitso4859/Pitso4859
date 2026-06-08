@@ -1,210 +1,305 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   P I T S O   N K O T O L A N E   G I N T O S               ║
-║   Backend Engineer  ·  AI Systems  ·  Johannesburg, ZA       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+# 👋 Hi, I'm Pitso Nkotolane Gintos
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems;Spring+Boot+%7C+FastAPI+%7C+Cloud+Architecture;90%25+of+Manual+Processes+→+Automated;94%25+Fraud+Detection+Accuracy+Achieved" alt="Typing SVG" />
+### Software Developer • Backend Engineer • AI Solutions Builder
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+Engineer;Spring+Boot+%7C+Python+%7C+FastAPI;Building+AI-Powered+Business+Solutions;Always+Learning+Always+Building" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pitso%20Nkotolane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pitso-nkotolane/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nkotolanepitso.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://nkotolanepitso.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-pnkotolane@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pnkotolane@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Pitso4859?label=Follow&style=flat-square&logo=github&color=181717)](https://github.com/Pitso4859)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://nkotolanepitso.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pitso%20Nkotolane-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pitso-nkotolane/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:pnkotolane@gmail.com)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Pitso4859&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-## `$ whoami`
+# 🚀 About Me
 
-> I'm a **Backend Engineer** currently working at **O2M8-2-AI (PTY) LTD**, where I build production-grade AI-powered systems that eliminate inefficiency at scale.
+I'm a Software Developer passionate about designing and building software that solves real-world business problems.
 
-I don't just write code — I engineer solutions that make measurable business impact:
+Currently working as a **Software Developer Intern at O2M8-2-AI (PTY) LTD**, where I contribute to AI-powered automation solutions, backend systems, and financial technology applications.
 
-- **40%** backend performance improvement delivered in production
-- **90%** of manual financial processes automated with AI
-- **94%** fraud detection accuracy on real financial datasets
-- **Multi-currency, real-time validation systems** serving live users
+### What I Focus On
 
-My stack spans Java, Python, and JavaScript — with deep focus on backend architecture, AI integration, and building systems that scale cleanly.
-
----
-
-## `$ tech-stack --list`
-
-### Languages
-```
-Java ████████████████████  Primary
-Python ███████████████████  Primary  
-TypeScript ██████████████   Proficient
-JavaScript █████████████    Proficient
-SQL ████████████████████    Proficient
-```
-
-### Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logoColor=white)
-
-### AI & Data
-![Python](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- Backend Engineering
+- Java & Spring Boot Development
+- AI Integration & Automation
+- REST API Development
+- Database Design & Optimization
+- Cloud Technologies
+- Software Architecture
 
 ---
 
-## `$ projects --featured`
+# 💼 Professional Experience
 
-### 🔍 Credit Card Fraud Detection
-> `Python` `Scikit-learn` `Pandas` `Machine Learning`
+## Software Developer Intern
+### O2M8-2-AI (PTY) LTD
 
-A production-ready ML pipeline built to catch fraud before it costs businesses.
+Key contributions include:
 
-- Engineered features from large-scale financial transaction datasets
-- Applied model optimization to minimize false positives — the metric that actually matters in finance
-- **Result: 94% detection accuracy** — deployable at scale
+✔ Developed backend services and APIs
 
----
+✔ Built AI-powered automation solutions
 
-### 💼 FinTrack Pro — AI Accounting System
-> `React 19` `Node.js` `Supabase` `AI Integration`
+✔ Improved application performance
 
-An AI-powered financial platform purpose-built for small and medium businesses.
+✔ Assisted with financial technology systems
 
-- Automated end-to-end financial workflows and reporting pipelines
-- Integrated AI-driven insights to surface actionable business intelligence
-- Architected for scale from day one
+✔ Developed data processing pipelines using Python
+
+✔ Collaborated using GitHub workflows and code reviews
 
 ---
 
-### 🧾 AI Invoice Processing API
-> `Python` `FastAPI` `AI Document Models`
+# 🛠 Tech Stack
 
-Turned a painful manual process into a fully automated document intelligence pipeline.
+## Languages
 
-- Extracted and validated structured data from unstructured invoice documents
-- Reduced manual processing effort to near-zero
-- Built with FastAPI for high-throughput, async performance
-
----
-
-### 🎓 Examination Management System
-> `Spring Boot` `MySQL` `Role-Based Auth`
-
-A secure, role-aware academic management backend.
-
-- Implemented fine-grained role-based access control
-- Designed normalized schemas for academic data integrity
-- Built for maintainability and institutional scale
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## `$ experience --current`
+## Backend Development
 
-### Software Developer Intern — O2M8-2-AI (PTY) LTD
-
-| What I did | Impact |
-|---|---|
-| Backend performance optimization | ↑ **40% performance gain** |
-| AI-powered invoice processing & audit | ↓ **Manual effort near-eliminated** |
-| Financial process automation | **90% of manual workflows automated** |
-| Real-time validation system | **Multi-currency, production-ready** |
-| Python data processing pipelines | **Automated end-to-end** |
-| GitHub PR review workflows | **Production team collaboration** |
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ---
 
-## `$ git log --stats`
+## Frontend
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pitso4859&theme=github-dark-blue&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
-### Language Distribution
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00D9FF&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
-### Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pitso4859&theme=react-dark&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## `$ goals --year 2026`
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📜 Certifications
+
+## Software Development
+
+- Java Programming Fundamentals
+- Python Essentials 1
+- Python Essentials 2
+- Object-Oriented Programming
+- Software Engineering Fundamentals
+- Git & GitHub Version Control
+- Database Design Fundamentals
+
+## Cisco Certifications
+
+- Cisco Networking Essentials
+- Cisco Introduction to Cybersecurity
+- Cisco Endpoint Security
+- Cisco Cyber Threat Management
+- Cisco Network Support and Security
+- Cisco Junior Cybersecurity Analyst Career Path
+
+## Currently Studying
+
+- AWS Cloud Practitioner
+- Spring Boot Microservices
+- System Design
+- AI Engineering
+
+---
+
+# 🏆 Featured Projects
+
+## 💰 Finance Manager
+
+A modern financial management application built with Spring Boot.
+
+### Features
+
+- Income Tracking
+- Expense Management
+- Authentication & Authorization
+- Financial Reports
+- Dashboard Analytics
+
+### Tech
+
+Spring Boot • MySQL • Thymeleaf
+
+---
+
+## 🔍 Credit Card Fraud Detection
+
+Machine learning project developed to identify fraudulent transactions.
+
+### Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Predictive Analytics
+- Fraud Detection Models
+
+### Tech
+
+Python • Pandas • Scikit-Learn
+
+---
+
+## 🧾 AI Invoice Processing API
+
+AI-powered document processing platform.
+
+### Features
+
+- Invoice Data Extraction
+- Validation Engine
+- Automation Workflows
+- API Integration
+
+### Tech
+
+Python • FastAPI • AI Models
+
+---
+
+## 🎓 Examination Management System
+
+Role-based academic management platform.
+
+### Features
+
+- Student Management
+- Examination Scheduling
+- Role-Based Authentication
+- Secure Administration
+
+### Tech
+
+Spring Boot • MySQL
+
+---
+
+# 🎯 Current Development Goals
 
 ```yaml
-architect:
-  - Enterprise-level distributed backend systems
+Learning:
+  - Microservices Architecture
+  - Cloud Computing
+  - System Design
+  - AI Engineering
 
-certify:
-  - AWS Solutions Architect (in progress)
+Building:
+  - SaaS Applications
+  - AI Automation Tools
+  - Enterprise Backend Systems
 
-ship:
-  - Production SaaS platform — v1.0
-
-build:
-  - Advanced AI-driven backend automation suite
-
-contribute:
-  - Meaningful open-source projects in the African dev ecosystem
+Career:
+  - Backend Engineer
+  - Software Engineer
+  - Solutions Architect
 ```
 
 ---
 
-## `$ connect`
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Channel | Link |
-|---|---|
-| 💼 LinkedIn | [pitso-nkotolane](https://www.linkedin.com/in/pitso-nkotolane/) |
-| 🌐 Portfolio | [nkotolanepitso.vercel.app](https://nkotolanepitso.vercel.app/) |
-| 📬 Email | [pnkotolane@gmail.com](mailto:pnkotolane@gmail.com) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🔥 Contribution Streak
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  "Engineering scalable systems that power intelligent    │
-│   business solutions — one commit at a time."            │
-│                                          — Pitso         │
-└──────────────────────────────────────────────────────────╝
+<img src="https://streak-stats.demolab.com?user=Pitso4859&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pitso4859&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pitso4859&theme=github-dark"/>
+
+</div>
+
+---
+
+# 💡 Fun Facts
+
+```java
+public class Pitso {
+
+    String passion = "Building Software";
+
+    String currentFocus = "Backend Engineering";
+
+    String learning = "Cloud + AI + System Design";
+
+    String goal = "Create Technology That Solves Real Problems";
+}
 ```
 
-**Open to backend, AI/ML, and full-stack engineering opportunities.**
+---
+
+# 📫 Let's Connect
+
+- 🌐 Portfolio: https://nkotolanepitso.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/pitso-nkotolane
+- 📧 Email: pnkotolane@gmail.com
+
+---
+
+<div align="center">
+
+### "Building software that creates value, solves problems, and makes a measurable impact."
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
 
 </div>
