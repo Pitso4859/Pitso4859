@@ -240,8 +240,7 @@ Spring Boot • MySQL
 # 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=Pitso4859&theme=github-dark-blue&hide_border=true"/>
 
@@ -250,8 +249,7 @@ Spring Boot • MySQL
 <br>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
