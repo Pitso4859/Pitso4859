@@ -1,194 +1,301 @@
 <!--
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                          WELCOME TO MY WORKSPACE                          ║
-║                     Where Code Meets Real-World Solutions                  ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                         PITSO NKOTOLANE GINTOS — SOFTWARE ENGINEER                      ║
+║                    Where Architecture Meets Execution | Solutions Over Code            ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pitso+Nkotolane+Gintos;Software+Engineer+%7C+Solution+Architect;I+don't+just+write+code...;I+build+solutions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Pitso+Nkotolane+Gintos;Software+Engineer+%7C+Backend+Architect;AI+Solutions+Engineer;I+build+systems+that+solve+real+problems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pitso4859&style=flat-square&color=2E9AFF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pitso4859?style=flat-square&logo=github&color=2E9AFF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Status-Building%20Solutions-2E9AFF?style=flat-square" />
+  <a href="https://nkotolanepitso.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pitso-nkotolane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pnkotolane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Animated Gradient Banner -->
+<!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AFF,100:6B5B95&height=120&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AFF,100:6B5B95&height=100&section=header&text=&fontSize=0" width="100%" />
 </div>
 
 ---
 
-## 🧠 My Engineering Philosophy
+## 🧠 Engineering Philosophy
+
+<div align="center">
+  <blockquote>
+    <p align="center">
+      <em><strong>"Software engineering is not simply writing code."</strong></em><br/>
+      Every system should solve a problem, not create one.
+    </p>
+  </blockquote>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
-        <blockquote>
-          <p align="center">
-            <em>"Great software engineers don't just write code — they understand problems deeply,<br/>
-            design elegant solutions, and build systems that create lasting business value."</em>
-          </p>
-        </blockquote>
-        <p align="center">
-          🔍 <strong>Problem-first mindset</strong> → Every project starts with understanding, not coding.<br/>
-          🏗️ <strong>Systematic approach</strong> → From requirements → architecture → implementation → delivery.<br/>
-          💡 <strong>Business-driven development</strong> → Technology serves purpose, not the other way around.
-        </p>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-🏗%20Software%20Architecture-2E9AFF?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-🎯%20Object--Oriented%20Design-2E9AFF?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-🧩%20Design%20Patterns-2E9AFF?style=flat-square" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-⚡%20Algorithms%20%26%20Data%20Structures-6B5B95?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-🔒%20Secure%20Development-6B5B95?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-☁️%20Cloud--Native%20Systems-6B5B95?style=flat-square" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/-🤖%20AI--Powered%20Automation-00B4D8?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-📊%20Data--Driven%20Decisions-00B4D8?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/-⚙️%20System%20Optimization-00B4D8?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+> 💡 **My approach:** Understand the problem → Analyze requirements → Design architecture → Implement → Deliver measurable value.
+
+---
+
+## 💫 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <ul>
+          <li>🔭 <strong>Currently building:</strong> Backend systems, AI-powered automation, and financial technology applications</li>
+          <li>👯 <strong>Open to collaborating on:</strong> Java, Spring Boot, AI Engineering, Open Source, and Cloud projects</li>
+          <li>🤝 <strong>Looking to learn from:</strong> Engineers working on distributed systems, microservices, and large-scale architectures</li>
+          <li>💬 <strong>Ask me about:</strong> Java • Python • Spring Boot • REST APIs • Design Patterns • Algorithms • Database Design • Backend Architecture</li>
+          <li>⚡ <strong>Fun fact:</strong> I often spend more time designing the solution than writing the code</li>
+        </ul>
       </td>
       <td align="center" width="40%">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611gfh6sx7xy4acb21vkcz90t93n15pz1rccn9o5pwp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" />
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611gfh6sx7xy4acb21vkcz90t93n15pz1rccn9o5pwp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="140" />
       </td>
-    </tr>
+    </table>
   </table>
 </div>
 
 ---
 
-## 🚀 Current Focus & Impact
+## 🚀 What I Build
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Backend%20Engineering-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #2E9AFF, #6B5B95); padding: 20px; border-radius: 12px;">
+          <h3>🏢 Enterprise Backend Systems</h3>
+          <p>Scalable services for performance, maintainability, and reliability</p>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI%20Automation-Intelligent%20Agents-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #6B5B95, #2E9AFF); padding: 20px; border-radius: 12px;">
+          <h3>💰 FinTech Solutions</h3>
+          <p>Automated accounting, reporting, auditing, and financial workflows</p>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/FinTech-Solutions-0084B4?style=for-the-badge&logo= stripe&logoColor=white" />
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #2E9AFF, #00B4D8); padding: 20px; border-radius: 12px;">
+          <h3>🤖 AI-Powered Automation</h3>
+          <p>Reduce manual work, increase operational efficiency</p>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #00B4D8, #2E9AFF); padding: 20px; border-radius: 12px;">
+          <h3>📊 Data-Driven Platforms</h3>
+          <p>Transform business data into actionable insights</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+---
 
-> 💼 **Currently:** Software Developer Intern @ O2M8-2-AI (PTY) LTD  
-> 🎯 **Building:** Financial technology systems + AI-powered automation solutions  
-> 🌱 **Leveling up:** Distributed Systems, Event-Driven Architecture, Advanced AI Engineering
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <h3>Software Developer Intern</h3>
+        <p><strong>O2M8-2-AI (PTY) LTD</strong> | Current</p>
+        <p><em>Contributing to production-grade software systems and AI-powered business automation solutions</em></p>
+        <details>
+          <summary><strong>📋 Key Contributions</strong></summary>
+          <ul>
+            <li>✔ Backend API Development</li>
+            <li>✔ AI Workflow Automation</li>
+            <li>✔ Financial Process Automation</li>
+            <li>✔ Data Processing Pipelines</li>
+            <li>✔ System Optimization</li>
+            <li>✔ Production Support</li>
+            <li>✔ Collaborative Git Workflows</li>
+          </ul>
+        </details>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://img.shields.io/badge/Production%20Systems-Active-2E9AFF?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Code%20Quality-Enterprise%20Grade-6B5B95?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Technology Toolbox
+## 📜 Certifications
+
+<div align="center">
+  <details>
+    <summary><strong>📚 Software Development (Click to expand)</strong></summary>
+    <br/>
+    <table>
+      <tr>
+        <td>Java Programming Fundamentals</td>
+        <td>Python Essentials 1</td>
+        <td>Python Essentials 2</td>
+      </tr>
+      <tr>
+        <td>Object-Oriented Programming</td>
+        <td>Software Engineering Fundamentals</td>
+        <td>Git & GitHub</td>
+      </tr>
+      <tr>
+        <td colspan="3">Database Design Fundamentals</td>
+      </tr>
+    </table>
+  </details>
+  
+  <details>
+    <summary><strong>🔐 Networking & Cybersecurity</strong></summary>
+    <br/>
+    <table>
+      <tr>
+        <td>Cisco Networking Essentials</td>
+        <td>Cisco Introduction to Cybersecurity</td>
+      </tr>
+      <tr>
+        <td>Cisco Endpoint Security</td>
+        <td>Cisco Cyber Threat Management</td>
+      </tr>
+      <tr>
+        <td colspan="2">Cisco Junior Cybersecurity Analyst</td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+---
+
+## 🛠 Core Technology Stack
 
 <div align="center">
   
-### 🎯 Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🤖 AI & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Featured Solutions — Not Just Code
+## 🌟 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">💰 Finance Manager</h3>
-        <p align="center">
-          <em>Complete personal finance ecosystem solving the problem of financial disorganization.</em>
-        </p>
-        <ul>
-          <li>📊 <strong>Problem solved:</strong> People struggle to track spending and save effectively</li>
-          <li>✅ <strong>Solution:</strong> Intuitive income/expense tracking + visual reporting</li>
-          <li>🔐 Secure authentication for personal financial data</li>
-          <li>📈 Real-time balance insights and spending patterns</li>
-        </ul>
-        <p align="center">
+        <h3>💰 Finance Manager</h3>
+        <p><em>Financial management platform for expense tracking and reporting</em></p>
+        <p>
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
           <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=flat&logo=thymeleaf" />
         </p>
+        <ul>
+          <li>Layered Architecture</li>
+          <li>Authentication & Authorization</li>
+          <li>Financial Reporting</li>
+          <li>Secure Backend Design</li>
+        </ul>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🔍 Credit Card Fraud Detection</h3>
-        <p align="center">
-          <em>Machine learning solution protecting transactions from financial crime.</em>
+        <h3>🔍 Credit Card Fraud Detection</h3>
+        <p><em>ML solution for detecting fraudulent transactions</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
+          <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn" />
         </p>
         <ul>
-          <li>⚡ <strong>Problem solved:</strong> Financial institutions lose billions to undetected fraud</li>
-          <li>✅ <strong>Solution:</strong> ML model that flags suspicious patterns in real-time</li>
-          <li>📊 Feature engineering to improve detection accuracy</li>
-          <li>🎯 Precision-focused to reduce false positives</li>
+          <li>Data Analysis & Feature Engineering</li>
+          <li>Fraud Prediction Models</li>
+          <li>Model Optimization</li>
         </ul>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-          <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
-        </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🧾 AI Invoice Processing API</h3>
-        <p align="center">
-          <em>Document intelligence system automating manual data entry.</em>
+        <h3>🧾 AI Invoice Processing System</h3>
+        <p><em>Automated document processing and validation platform</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
         </p>
         <ul>
-          <li>⏱️ <strong>Problem solved:</strong> Manual invoice processing is slow and error-prone</li>
-          <li>✅ <strong>Solution:</strong> FastAPI backend that extracts and validates invoice data</li>
-          <li>🤖 Automated field extraction reduces human effort by 80%</li>
-          <li>📤 REST API designed for seamless business integration</li>
+          <li>AI Integration & Workflow Automation</li>
+          <li>RESTful API Design</li>
+          <li>Data Validation</li>
         </ul>
-        <p align="center">
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase" />
-        </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎓 Examination Management System</h3>
-        <p align="center">
-          <em>Academic platform solving institutional assessment chaos.</em>
+        <h3>🎓 Examination Management System</h3>
+        <p><em>Academic platform for secure examination workflows</em></p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
         </p>
         <ul>
-          <li>📚 <strong>Problem solved:</strong> Educational institutions lack secure exam management</li>
-          <li>✅ <strong>Solution:</strong> Role-based platform for students, teachers, and admins</li>
-          <li>🔒 Secure authentication and authorization</li>
-          <li>📋 Streamlined exam creation, submission, and grading</li>
+          <li>Role-Based Access Control (RBAC)</li>
+          <li>Service Layer Architecture</li>
+          <li>Secure Authentication</li>
         </ul>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" />
-          <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity" />
-        </p>
       </td>
     </tr>
   </table>
@@ -196,7 +303,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
@@ -210,43 +317,88 @@
 
 ---
 
-## 🤝 Let's Build Something Meaningful
+## 🧭 Engineering Roadmap
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2E9AFF&center=true&vCenter=true&width=435&lines=Open+to+collaborations;Looking+for+challenging+problems;Let's+turn+ideas+into+solutions" />
-  </p>
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <h3>🎯 Current Focus</h3>
+        <ul style="text-align: left;">
+          <li>Advanced System Design</li>
+          <li>Cloud Architecture</li>
+          <li>AI Engineering</li>
+          <li>Microservices</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h3>📅 2026 Goals</h3>
+        <ul style="text-align: left;">
+          <li>AWS Certification</li>
+          <li>Enterprise Backend Architecture</li>
+          <li>Production SaaS Launch</li>
+          <li>Open Source Contributions</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <h3>🌟 Long-Term Vision</h3>
+        <ul style="text-align: left;">
+          <li>Principal Software Engineer</li>
+          <li>System Architecture Expert</li>
+          <li>Technical Leadership</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+## 📚 Currently Reading
+
 <div align="center">
-  <a href="https://linkedin.com/in/pitso-nkotolane">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-Clean%20Code-2E9AFF?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-Clean%20Architecture-6B5B95?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-Designing%20Data--Intensive%20Apps-00B4D8?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-Head%20First%20Design%20Patterns-2E9AFF?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-System%20Design%20Interview-6B5B95?style=flat-square" /></td>
+      <td> </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
   <a href="https://nkotolanepitso.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pitso-nkotolane">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pnkotolane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/nkotolane_pitso">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<!-- Animated Footer -->
+<!-- Animated Gradient Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AFF,100:6B5B95&height=100&section=footer&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AFF,100:6B5B95&height=80&section=footer&text=&fontSize=0" width="100%" />
 </div>
 
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" alt="Bullhorn" width="25" height="25" />
-    <strong>"The value isn't in the code — it's in the problem you solve."</strong>
+    <strong>🚀 Building software that solves real-world problems through engineering, architecture, and innovation.</strong>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" alt="Bullhorn" width="25" height="25" />
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Pitso4859&style=flat-square&color=2E9AFF" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Pitso4859&style=flat-square&color=2E9AFF" alt="Profile Views" />
 </div>
