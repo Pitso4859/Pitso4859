@@ -370,7 +370,7 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://nkotolanepitso.vercel.app">
+  <a href="https://nkotolane-pitso-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pitso-nkotolane">
