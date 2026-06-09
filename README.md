@@ -43,7 +43,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="33%">
@@ -369,30 +369,28 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://nkotolane-pitso-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pitso-nkotolane">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pnkotolane@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉️%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br/>
+---
 
-<!-- Animated Gradient Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AFF,100:6B5B95&height=80&section=footer&text=&fontSize=0" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" width="20" height="20" />
+  <strong>Building software that solves real-world problems through engineering, architecture, and innovation.</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" width="20" height="20" />
+</p>
 
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" alt="Bullhorn" width="25" height="25" />
-    <strong>🚀 Building software that solves real-world problems through engineering, architecture, and innovation.</strong>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullhorn.png" alt="Bullhorn" width="25" height="25" />
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=Pitso4859&style=flat-square&color=2E9AFF" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pitso4859&style=flat-square&color=2E9AFF" />
+  <br/>
+  <sub>Profile Views</sub>
+</p>
