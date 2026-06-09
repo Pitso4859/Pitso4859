@@ -1,24 +1,114 @@
-# 💫 About Me:
-🔭 I'm currently building backend systems, AI-powered automation solutions, and financial technology applications.<br><br>👯 I'm looking to collaborate on Software Engineering, Open Source, Java/Spring Boot, AI, and Cloud-based projects.<br><br>🤝 I'm looking for help with Distributed Systems, Software Architecture, Kubernetes, and Large-Scale System Design.<br><br>🌱 I'm currently learning Microservices, Domain-Driven Design (DDD), AWS, Event-Driven Architecture, and Advanced AI Engineering.<br><br>💬 Ask me about Software Engineering, Design Patterns, Algorithms, Java, Python, Spring Boot, REST APIs, Database Design, and System Architecture.<br><br>⚡ Fun fact: I treat software development like engineering—every project starts with understanding the problem before writing a single line of code.
+# Hi there 👋 I'm Pitso Nkotolane Gintos
 
+### Software Developer | Java | Spring Boot | Python | AI Solutions
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1QMF5zFWa4/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nkotolane__pitso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nkotolanepitso) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nkotolane_pitso?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnkotolane@gmail.com) 
+I'm a Software Developer with experience building backend systems,
+AI-powered business applications and automation solutions.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pitso4859&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pitso4859&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently working as a Software Developer Intern at O2M8-2-AI (PTY) LTD,
+where I contribute to financial technology and intelligent automation projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pitso4859&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Software Developer focused on backend engineering
+- 🌱 Continuously learning cloud technologies and software architecture
+- 🤖 Interested in AI integration and intelligent automation
+- 🛠 Passionate about solving real business problems through technology
+- 📍 South Africa
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+Java • Python • JavaScript • TypeScript • SQL
+
+### Backend
+Spring Boot • FastAPI • Node.js • REST APIs • Hibernate
+
+### Databases
+MySQL • PostgreSQL • Supabase • Firebase
+
+### Tools & Cloud
+Git • GitHub • Docker • AWS • Azure • Postman
+
+### AI & Data
+Scikit-Learn • Pandas • Machine Learning • AI Integration
+
+---
+
+## 💼 Experience
+
+### Software Developer Intern
+O2M8-2-AI (PTY) LTD
+
+Key Contributions:
+
+- Developed and maintained backend services
+- Assisted in AI-powered automation projects
+- Built financial processing solutions
+- Improved application performance and reliability
+- Worked within collaborative GitHub workflows
+
+---
+
+## 📌 Featured Projects
+
+### 💰 Finance Manager
+A financial management system built using Spring Boot and MySQL.
+
+**Features**
+- Income and expense tracking
+- Financial reporting
+- User authentication
+- Responsive user interface
+
+---
+
+### 🔍 Credit Card Fraud Detection
+
+Machine learning solution developed using Python and Scikit-Learn.
+
+**Highlights**
+- Data preprocessing
+- Feature engineering
+- Fraud prediction models
+- Performance evaluation
+
+---
+
+### 🧾 AI Invoice Processing API
+
+FastAPI-based document processing system that extracts and validates invoice information.
+
+---
+
+### 🎓 Examination Management System
+
+Spring Boot academic platform with role-based authentication and secure management features.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/pitso-nkotolane
+- Portfolio: https://nkotolanepitso.vercel.app
+- Email: pnkotolane@gmail.com
+
+---
+
+> "Building software that solves real-world problems."
