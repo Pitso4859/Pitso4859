@@ -43,7 +43,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
@@ -208,7 +208,7 @@
 
 ## 🛠 Core Technology Stack
 
-<div align="center">
+<div align="left">
   
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
