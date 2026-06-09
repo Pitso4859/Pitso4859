@@ -305,15 +305,9 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pitso4859&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pitso4859&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitso4859&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Pitso4859&theme=darkhub&no-frame=true&row=2&column=2&margin-w=15&margin-h=15" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Pitso4859&theme=panda&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pitso4859&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
